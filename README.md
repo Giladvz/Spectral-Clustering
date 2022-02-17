@@ -1,8 +1,7 @@
 # Spectral-Clustering
-Normalized Spectral Clustering We present the Normalized Spectral Clustering algorithm. Given a set of n points X = x1, x2, . . . , xN ∈ Rd
-the algorithm is:
+Normalized Spectral Clustering We present the Normalized Spectral Clustering algorithm. Given a set of n points X = x1, x2, . . . , xN ∈ R^d
 
-Algorithm 1 The Normalized Spectral Clustering Algorithm
+The Normalized Spectral Clustering Algorithm:
 1: Form the weighted adjacency matrix W from X
 2: Compute the normalized graph Laplacian Lnorm
 3: Determine k and obtain the first k eigenvectors u1, . . . , uk of Lnorm
