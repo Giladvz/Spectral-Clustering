@@ -20,4 +20,4 @@ set t(ij) = u(ij)/(Σ(u^2(ij))^0.5
 
 The project returns step 6
 
-u^2(ij) = (u_(ij))^2
+side note:u^2(ij) = (u_(ij))^2
